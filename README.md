@@ -1,2 +1,2 @@
 # UrlWhitelist
-A list of domains wich are allowed on our discord server.
+A list of domains which are allowed on our discord server.
