@@ -2,7 +2,7 @@
 A list of domains which are allowed on our discord server.
 - [Discord][discord]
 
-## **Contribute translations**
+## **Contribute whitelist**
 
 ### **Instructions**
 - check for unwhitelisted sites in [this file](https://github.com/TechsCode-Team/UrlWhitelist/blob/main/urls.txt)
