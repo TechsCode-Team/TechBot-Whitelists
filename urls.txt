@@ -68,10 +68,6 @@ insaneshops.com
 insaneannouncer.com
 insanediscord.com
 ultraeditor.tech
-download.ultraeditor.tech
-web.ultraeditor.tech
-beta.ultraeditor.tech
-wiki.ultraeditor.tech
 techscode.com
 techscode.de
 techsco.de
