@@ -1,6 +1,6 @@
 # UrlWhitelist
 A list of domains which are allowed on our discord server.
-- [Discord][discord]
+- [Discord](https://discord.com/invite/3JuHDm8)
 
 ## **Contribute whitelist**
 
