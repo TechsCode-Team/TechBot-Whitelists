@@ -96,3 +96,7 @@ namemc.com
 englandismy.city
 guides.ultracustomizer.com
 fabiandingemans.nl
+timings.spigotmc.org
+timings.aikar.co
+spark.lucko.me
+timings.pl3x.net
