@@ -29,6 +29,7 @@ cumming.xyz
 github.com
 gitbook.com
 gitlab.com
+greazi.com
 bitbucket.org
 ovh.com
 soyoustart.com
@@ -54,6 +55,7 @@ mcpaste.com
 pastebin.com
 nekobin.com
 hastebin.com
+paste.greazi.com
 bin.birdflop.com
 paste.helpch.at
 paste.ubuntu.com
