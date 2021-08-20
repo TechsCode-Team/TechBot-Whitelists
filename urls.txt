@@ -1,7 +1,6 @@
 amazon.com
 apexminecrafthosting.com
 aternos.org
-bin.birdflop.com
 bing.com
 birdflop.com
 bisecthosting.com
@@ -33,7 +32,6 @@ github.com
 gitlab.com
 google.com
 greazi.com
-guides.ultracustomizer.com
 gyazo.com
 hasteb.in
 hastebin.com
@@ -116,3 +114,9 @@ yahoo.com
 youtu.be
 youtube.com
 yt.be
+adoptopenjdk.net
+adoptium.net
+netflix.com
+microsoft.com
+adobe.com
+apple.com
