@@ -84,6 +84,7 @@ songoda.com
 soulnote.net
 soyoustart.com
 spacenodes.net
+spark.lucko.me
 spigotmc.org
 spotify.com
 stackoverflow.com
@@ -95,6 +96,9 @@ tenor.com
 thelongestdomainnameintheworldliterallynobodycangetalongeronexd.community
 theofficialabsolutelongestdomainnameregisteredontheworldwideweb.international
 tiktok.com
+timings.aikar.co
+timings.pl3x.net
+timings.spigotmc.org
 twitch.tv
 twitter.com
 ultracustomizer.com
@@ -111,3 +115,4 @@ wikipedia.org
 yahoo.com
 youtu.be
 youtube.com
+yt.be
