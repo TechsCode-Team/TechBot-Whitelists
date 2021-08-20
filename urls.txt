@@ -100,3 +100,5 @@ guides.ultracustomizer.com
 fabiandingemans.nl
 ebay.com
 ebay.de
+amazon.com
+aws.amazon.com
