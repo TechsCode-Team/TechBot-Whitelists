@@ -55,6 +55,7 @@ mcpaste.io
 microsoft.com
 minecraft.net
 minestorecms.com
+mojang.com
 mycoolweb.site
 namelessmc.com
 namemc.com
