@@ -1,5 +1,9 @@
+adobe.com
+adoptium.net
+adoptopenjdk.net
 amazon.com
 apexminecrafthosting.com
+apple.com
 aternos.org
 bing.com
 birdflop.com
@@ -48,6 +52,7 @@ mc-market.org
 mclo.gs
 mcpaste.com
 mcpaste.io
+microsoft.com
 minestorecms.com
 mycoolweb.site
 namelessmc.com
@@ -55,6 +60,7 @@ namemc.com
 nathans212.com
 nekobin.com
 neromc.net
+netflix.com
 noelshack.com
 npmjs.com
 onlineutf8tools.com
@@ -114,9 +120,3 @@ yahoo.com
 youtu.be
 youtube.com
 yt.be
-adoptopenjdk.net
-adoptium.net
-netflix.com
-microsoft.com
-adobe.com
-apple.com
