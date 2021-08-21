@@ -53,6 +53,7 @@ mclo.gs
 mcpaste.com
 mcpaste.io
 microsoft.com
+minecraft.net
 minestorecms.com
 mycoolweb.site
 namelessmc.com
