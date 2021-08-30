@@ -39,7 +39,6 @@ gitlab.com
 gladly.io
 google.com
 greazi.com
-greazi.com
 gyazo.com
 hasteb.in
 hastebin.com
