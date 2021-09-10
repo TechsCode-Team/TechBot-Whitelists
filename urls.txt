@@ -65,6 +65,7 @@ mojang.com
 mycoolweb.site
 namelessmc.com
 namemc.com
+nametagedit.com
 nathans212.com
 nekobin.com
 neromc.net
