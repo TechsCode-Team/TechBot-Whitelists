@@ -34,9 +34,11 @@ ebay.co.uk
 ebay.com
 ebay.com.au
 ebay.de
+eff.org
 englandismy.city
 fabiandingemans.nl
 facebook.com
+fastly.com
 galaxygate.net
 giphy.com
 gitbook.com
@@ -60,7 +62,9 @@ insaneshops.com
 instagram.com
 jetbrains.com
 kimsufi.com
+letsencrypt.org
 lucko.me
+mariadb.org
 mc-market.org
 mc-protection.eu
 mclo.gs
@@ -71,6 +75,7 @@ microsoft.com
 minecraft.net
 minestorecms.com
 mojang.com
+mongodb.com
 mozilla.org
 msn.com
 mycoolweb.site
@@ -141,9 +146,13 @@ ultraregions.com
 ultrascoreboards.com
 verygames.net
 vimeo.com
+virtualbox.org
 vmware.com
+vmware.com
+vultr.com
 w3schools.com
 wikipedia.org
+wix.com
 wordpress.org
 yahoo.com
 youtu.be
