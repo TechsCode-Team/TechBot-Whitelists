@@ -114,6 +114,7 @@ pukawka.pl
 reddit.com
 retronode.net
 s.und.services
+server.pro
 shockbyte.com
 slaapkopamy.com
 songoda.com
@@ -158,3 +159,4 @@ yahoo.com
 youtu.be
 youtube.com
 yt.be
+zap-hosting.com
