@@ -88,6 +88,8 @@ nathans212.com
 nekobin.com
 neromc.net
 netflix.com
+newegg.ca
+newegg.com
 nginx.com
 nginx.org
 noelshack.com
@@ -133,6 +135,7 @@ tenor.com
 thelongestdomainnameintheworldliterallynobodycangetalongeronexd.community
 theofficialabsolutelongestdomainnameregisteredontheworldwideweb.international
 tiktok.com
+tweakers.net
 twitch.tv
 twitter.com
 ubuntu.com
