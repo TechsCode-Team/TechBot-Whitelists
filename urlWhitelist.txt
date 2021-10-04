@@ -63,6 +63,7 @@ instagram.com
 jetbrains.com
 kimsufi.com
 letsencrypt.org
+letsweather.com
 lucko.me
 mariadb.org
 mc-market.org
