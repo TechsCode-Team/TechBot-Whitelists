@@ -57,6 +57,7 @@ hastebin.com
 helpch.at
 hetzner.com
 hypera.dev
+hypixel.net
 imgur.com
 insaneannouncer.com
 insanediscord.com
