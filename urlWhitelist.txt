@@ -112,6 +112,7 @@ pebblehost.com
 php.net
 pl3x.net
 plesk.com
+pls-rail.me
 plugin.yml
 polymart.org
 pterodactyl.io
