@@ -66,6 +66,7 @@ insaneshops.com
 instagram.com
 jetbrains.com
 kimsufi.com
+lel.link
 letsencrypt.org
 letsweather.com
 lucko.me
