@@ -62,6 +62,7 @@ hypixel.net
 imgur.com
 insaneannouncer.com
 insanediscord.com
+insaneeditor.com
 insaneshops.com
 instagram.com
 jetbrains.com
