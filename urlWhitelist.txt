@@ -67,6 +67,7 @@ insanediscord.com
 insaneeditor.com
 insaneshops.com
 instagram.com
+itsmemac.com
 jetbrains.com
 kimsufi.com
 lel.link
@@ -109,6 +110,7 @@ opensource.com
 oracle.com
 ovh.com
 pastebin.com
+itsmemac.com
 patreon.com
 paulgiese.de
 pebble.host
