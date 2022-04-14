@@ -43,6 +43,7 @@ englandismy.city
 fabiandingemans.nl
 facebook.com
 fastly.com
+fedee.tk
 forms.gle/ucpCX6yznMeidXp9A
 galaxygate.net
 giphy.com
@@ -109,6 +110,7 @@ opensource.com
 oracle.com
 ovh.com
 pastebin.com
+pastes.dev
 patreon.com
 paulgiese.de
 pebble.host
