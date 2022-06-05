@@ -31,6 +31,7 @@ dailymotion.com
 debian.org
 discord.com
 discordapp.com
+doesnt-want-to.work
 dropbox.com
 duckduckgo.com
 eazyftw.com
