@@ -42,6 +42,7 @@ ebay.com.au
 ebay.de
 eff.org
 englandismy.city
+elixir-lang.org
 fabiandingemans.nl
 facebook.com
 fastly.com
@@ -69,6 +70,8 @@ insaneannouncer.com
 insanediscord.com
 insaneeditor.com
 insaneshops.com
+insanespawners.com
+insanevaults.com
 instagram.com
 itsmemac.com
 jetbrains.com
@@ -149,6 +152,7 @@ tenor.com
 thelongestdomainnameintheworldliterallynobodycangetalongeronexd.community
 theofficialabsolutelongestdomainnameregisteredontheworldwideweb.international
 tiktok.com
+timin.gs
 tweakers.net
 twitch.tv
 twitter.com
@@ -156,8 +160,10 @@ ubuntu.com
 udemy.com
 ultraadditions.com
 ultracustomizer.com
+ultradiscord.com
 ultraeconomy.com
 ultraeditor.tech
+ultramotd.com
 ultrapermissions.com
 ultrapunishments.com
 ultraregions.com
