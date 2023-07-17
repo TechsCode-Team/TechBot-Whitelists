@@ -32,7 +32,12 @@ finnfinity.com
 dailymotion.com
 debian.org
 discord.com
+dis.gd
 discordapp.com
+discordapp.net
+discordstatus.com
+discord.design
+discord.dev
 doesnt-want-to.work
 dropbox.com
 duckduckgo.com
@@ -48,7 +53,6 @@ fabiandingemans.nl
 facebook.com
 fastly.com
 fedee.tk
-forms.gle/ucpCX6yznMeidXp9A
 galaxygate.net
 giphy.com
 gitbook.com
